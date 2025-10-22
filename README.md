@@ -1,5 +1,5 @@
 <h2 align="center">Arian Dehnavizadeh</h2>
-<h3 align="center">CS@UCLA</h3>
+<h3 align="center">CS @ UCLA</h3>
 <p allign="Left">About me:</p>
 
 ```json
