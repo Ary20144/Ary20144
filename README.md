@@ -1,12 +1,41 @@
 <h2 align="center">Arian Dehnavizadeh</h2>
 <h3 align="center">CS@UCLA</h3>
 
+```json
+
+  
+  "located_in": "Los Angeles, California",
+  "current_job": "Looking for SWE/ML related Internships ",
+  "education": [
+    "University of California Los Angeles - Computer Science BS (In-progress)",
+    "Diablo Valley College - Computer Science/Physics/Math AS",
+    "San Ramon Valley Highschool - Highschool Diploma"
+  ]
 
 
+  "fields_of_interest": [
+    "Algorithms",
+    "Software Engineering",
+    "Data Structures",
+    "Machine Learning",
+    "Deep learning",
+    "Graph Theory",
+  ]
 
 
+  "background": [
+    "Coding Instructor - Code Ninjas",
+    "Math/CS Instructor - Grade Potential",
+  ]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ary20144" alt="ary20144" /></a> </p>
+
+  "currently_learning": ["Operating Systems", "Algorithm Design", "Graph Theory"],
+  "goals_2026": ["While contributing to Project and schoolwork, get a research/Internship in a related field"],
+  "hobbies": ["Gaming", "Martial Arts", "8 Ball pool", "Piano", "Logic and Philosophy", "Politics"]
+
+```
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ary20144" alt="Ary20144" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +49,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ary20144&show_icons=true&locale=en&layout=compact" alt="ary20144" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ary20144&show_icons=true&locale=en" alt="ary20144" /></p>
+
