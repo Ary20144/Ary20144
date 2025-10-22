@@ -1,9 +1,10 @@
 <h2 align="center">Arian Dehnavizadeh</h2>
 <h3 align="center">CS@UCLA</h3>
+<p allign="Left">About me:</p>
 
 ```json
-
-  
+                                                                                                                
+  [
   "located_in": "Los Angeles, California",
   "current_job": "Looking for SWE/ML related Internships ",
   "education": [
