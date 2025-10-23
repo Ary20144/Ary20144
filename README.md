@@ -33,7 +33,7 @@
 
   "currently_learning": ["Operating Systems", "Algorithm Design", "Graph Theory"],
   "goals_2026": ["While contributing to Project and schoolwork, get a research/Internship in a related field"],
-  "hobbies": ["Gaming", "Martial Arts", "8 Ball pool", "Piano", "Logic and Philosophy", "Politics"]
+  "hobbies": ["Gaming", "Chess", "Martial Arts", "8 Ball pool", "Piano", "Logic and Philosophy", "Politics"]
 
 ```
 <!-- Trophy with white text -->
